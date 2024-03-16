@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.containsString;
 
-public class ModifyContactsErrorTests extends TestBase {
+public class ModifyContactErrorTests extends TestBase {
 
     String id;
 
